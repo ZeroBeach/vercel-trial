@@ -1,0 +1,7 @@
+git credential approve <<EOF
+protocol=https
+host=github.com
+path=ZeroBeach/vercel-trial.git
+username=ZeroBeach
+password=ghp_Q_d3RK5bV0Fe8vFFFJywi3zurZNNBKz21Ey6p
+EOF
